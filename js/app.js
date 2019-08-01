@@ -21,9 +21,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     result.appendChild(newUl);
     newUl.appendChild(newli);
-
 form.reset();
+    });
 
-  });
 
-})
+
+  // });
+
+
+
+  // newDelBut.addEventListener('click', (event) => {
+  //   const delBook = document.querySelector('');
+
+
+});
